@@ -1,0 +1,29 @@
+# CLion
+.idea/
+
+# Build
+cmake-build-*/
+build/
+
+# CMake
+CMakeUserPresets.json
+
+# Qt
+*.user
+*.autosave
+
+# Compiler
+*.obj
+*.o
+*.exe
+*.dll
+*.pdb
+
+# macOS
+.DS_Store
+
+# Linux
+*.so
+
+# Windows
+Thumbs.db
